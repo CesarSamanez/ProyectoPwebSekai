@@ -1,0 +1,1129 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-06-15 16:54+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ArticlesController.php:57;82
+msgid "The article has been saved."
+msgstr ""
+
+#: Controller/ArticlesController.php:61;86
+msgid "The article could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ArticlesController.php:104
+msgid "The article has been deleted."
+msgstr ""
+
+#: Controller/ArticlesController.php:106
+msgid "The article could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:54;78
+msgid "The category has been saved."
+msgstr ""
+
+#: Controller/CategoriesController.php:58;82
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:99
+msgid "The category has been deleted."
+msgstr ""
+
+#: Controller/CategoriesController.php:101
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:64;88
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:68;92
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:109
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:111
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:137
+msgid "Invalid username or password, try again"
+msgstr ""
+
+#: Template/Articles/add.ctp:9
+#: Template/Articles/edit.ctp:9
+#: Template/Articles/index.ctp:9;28
+#: Template/Articles/view.ctp:9
+#: Template/Categories/add.ctp:9
+#: Template/Categories/edit.ctp:9
+#: Template/Categories/index.ctp:9;21
+#: Template/Categories/view.ctp:9
+#: Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9;29
+#: Template/Users/view.ctp:9
+msgid "Actions"
+msgstr ""
+
+#: Template/Articles/add.ctp:10
+#: Template/Articles/edit.ctp:16
+#: Template/Articles/view.ctp:12
+msgid "List Articles"
+msgstr ""
+
+#: Template/Articles/add.ctp:11
+#: Template/Articles/edit.ctp:17
+#: Template/Articles/index.ctp:11
+#: Template/Articles/view.ctp:14
+#: Template/Categories/add.ctp:10
+#: Template/Categories/edit.ctp:16
+#: Template/Categories/view.ctp:12
+msgid "List Categories"
+msgstr ""
+
+#: Template/Articles/add.ctp:12
+#: Template/Articles/edit.ctp:18
+#: Template/Articles/index.ctp:12
+#: Template/Articles/view.ctp:15
+#: Template/Categories/index.ctp:10
+#: Template/Categories/view.ctp:13
+msgid "New Category"
+msgstr ""
+
+#: Template/Articles/add.ctp:18
+msgid "Add Article"
+msgstr ""
+
+#: Template/Articles/add.ctp:30
+#: Template/Articles/edit.ctp:36
+#: Template/Categories/add.ctp:22
+#: Template/Categories/edit.ctp:28
+#: Template/Users/add.ctp:30
+#: Template/Users/edit.ctp:36
+#: View/Helper/FormHelper.php:2028
+msgid "Submit"
+msgstr ""
+
+#: Template/Articles/edit.ctp:11
+#: Template/Articles/index.ctp:45
+#: Template/Categories/edit.ctp:11
+#: Template/Categories/index.ctp:33
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:49
+msgid "Delete"
+msgstr ""
+
+#: Template/Articles/edit.ctp:13
+#: Template/Articles/index.ctp:45
+#: Template/Articles/view.ctp:11
+#: Template/Categories/edit.ctp:13
+#: Template/Categories/index.ctp:33
+#: Template/Categories/view.ctp:11
+#: Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:49
+#: Template/Users/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Articles/edit.ctp:24
+#: Template/Articles/view.ctp:10
+msgid "Edit Article"
+msgstr ""
+
+#: Template/Articles/index.ctp:10
+#: Template/Articles/view.ctp:13
+msgid "New Article"
+msgstr ""
+
+#: Template/Articles/index.ctp:16
+msgid "Articles"
+msgstr ""
+
+#: Template/Articles/index.ctp:43
+#: Template/Categories/index.ctp:31
+#: Template/Users/index.ctp:47
+#: View/Helper/PaginatorHelper.php:1258
+msgid "View"
+msgstr ""
+
+#: Template/Articles/index.ctp:44
+#: Template/Categories/index.ctp:32
+#: Template/Users/index.ctp:48
+msgid "Edit"
+msgstr ""
+
+#: Template/Articles/index.ctp:53
+#: Template/Categories/index.ctp:41
+#: Template/Users/index.ctp:57
+msgid "first"
+msgstr ""
+
+#: Template/Articles/index.ctp:54
+#: Template/Categories/index.ctp:42
+#: Template/Users/index.ctp:58
+msgid "previous"
+msgstr ""
+
+#: Template/Articles/index.ctp:56
+#: Template/Categories/index.ctp:44
+#: Template/Users/index.ctp:60
+msgid "next"
+msgstr ""
+
+#: Template/Articles/index.ctp:57
+#: Template/Categories/index.ctp:45
+#: Template/Users/index.ctp:61
+msgid "last"
+msgstr ""
+
+#: Template/Articles/index.ctp:59
+#: Template/Categories/index.ctp:47
+#: Template/Users/index.ctp:63
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/Articles/view.ctp:11
+msgid "Delete Article"
+msgstr ""
+
+#: Template/Articles/view.ctp:22
+msgid "Category"
+msgstr ""
+
+#: Template/Articles/view.ctp:26
+msgid "Code"
+msgstr ""
+
+#: Template/Articles/view.ctp:30
+#: Template/Categories/view.ctp:20
+#: Template/Users/view.ctp:20
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:36;62
+msgid "Name"
+msgstr ""
+
+#: Template/Articles/view.ctp:34
+#: Template/Categories/view.ctp:24
+#: Template/Users/view.ctp:48
+msgid "Id"
+msgstr ""
+
+#: Template/Articles/view.ctp:38
+msgid "Stock"
+msgstr ""
+
+#: Template/Articles/view.ctp:42
+msgid "Price"
+msgstr ""
+
+#: Template/Articles/view.ctp:46
+msgid "Referential Price"
+msgstr ""
+
+#: Template/Articles/view.ctp:50
+msgid "State"
+msgstr ""
+
+#: Template/Articles/view.ctp:51
+#: Template/Users/view.ctp:61
+msgid "Yes"
+msgstr ""
+
+#: Template/Articles/view.ctp:51
+#: Template/Users/view.ctp:61
+msgid "No"
+msgstr ""
+
+#: Template/Articles/view.ctp:55
+#: Template/Categories/view.ctp:33
+msgid "Description"
+msgstr ""
+
+#: Template/Categories/add.ctp:16
+msgid "Add Category"
+msgstr ""
+
+#: Template/Categories/edit.ctp:22
+#: Template/Categories/view.ctp:10
+msgid "Edit Category"
+msgstr ""
+
+#: Template/Categories/index.ctp:14
+msgid "Categories"
+msgstr ""
+
+#: Template/Categories/view.ctp:11
+msgid "Delete Category"
+msgstr ""
+
+#: Template/Categories/view.ctp:28
+msgid "Created"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr ""
+
+#: Template/Users/add.ctp:16
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/edit.ctp:22
+#: Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/forgot.ctp:8
+msgid "Please enter your email"
+msgstr ""
+
+#: Template/Users/forgot.ctp:13
+msgid "Get my password"
+msgstr ""
+
+#: Template/Users/index.ctp:10
+#: Template/Users/view.ctp:13
+msgid "New User"
+msgstr ""
+
+#: Template/Users/index.ctp:14
+msgid "Users"
+msgstr ""
+
+#: Template/Users/login.ctp:27
+msgid "Login"
+msgstr ""
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr ""
+
+#: Template/Users/view.ctp:24
+msgid "Last Name"
+msgstr ""
+
+#: Template/Users/view.ctp:28
+msgid "Address"
+msgstr ""
+
+#: Template/Users/view.ctp:32
+msgid "Email"
+msgstr ""
+
+#: Template/Users/view.ctp:36
+msgid "Username"
+msgstr ""
+
+#: Template/Users/view.ctp:40
+msgid "Password"
+msgstr ""
+
+#: Template/Users/view.ctp:44
+msgid "Function"
+msgstr ""
+
+#: Template/Users/view.ctp:52
+msgid "Dni"
+msgstr ""
+
+#: Template/Users/view.ctp:56
+msgid "Phone Number"
+msgstr ""
+
+#: Template/Users/view.ctp:60
+msgid "Status"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/maiconpinto/cakephp-adminlte-theme/src/Template/Element/Flash/default.ctp:4
+#: C:/xampp/htdocs/sekai/vendor/maiconpinto/cakephp-adminlte-theme/src/Template/Element/Flash/error.ctp:4
+#: C:/xampp/htdocs/sekai/vendor/maiconpinto/cakephp-adminlte-theme/src/Template/Element/Flash/success.ctp:4
+msgid "Alert"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:151
+msgid "Searches and precompiles all twig templates it finds."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:159
+msgid "Searches and precompiles all twig templates for a specific plugin."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:167
+msgid "Precompile a specific file."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:171
+msgid "TwigView templates precompiler"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:500
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:182
+#: Http/Middleware/CsrfProtectionMiddleware.php:196
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:186
+#: Http/Middleware/CsrfProtectionMiddleware.php:200
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:301
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:303
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2630
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2651
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:934
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2223
+#: View/Form/ArrayContext.php:226
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2245
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2395
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1107
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1109
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:819
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/DebugTimer.php:135
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Controller/ComposerController.php:76
+msgid "You have to be connected to the internet"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Controller/MailPreviewController.php:91
+msgid "No emails found in this request"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Controller/MailPreviewController.php:153
+msgid "Email part ''{0}'' not found in email"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Controller/MailPreviewController.php:276
+msgid "Mailer preview {0}::{1} not found"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Controller/ToolbarController.php:66
+msgid "Invalid cache engine name."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Controller/Component/ToolbarComponent.php:42
+msgid "{0} is now loaded through plugin bootstrapping. Make sure you have {1} in your application's {2}."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Model/Table/PanelsTable.php:59
+msgid "Missing request id in {0}."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/PanelRegistry.php:63
+msgid "Unable to find ''{0}'' panel."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/TimerPanel.php:53
+msgid "Controller initialization"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/TimerPanel.php:62
+msgid "Controller action start"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/TimerPanel.php:63;68
+msgid "Controller action"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/TimerPanel.php:73;74;94
+msgid "View Render start"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/TimerPanel.php:83;88
+msgid "Render {0}"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/TimerPanel.php:95
+msgid "Controller shutdown"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/VariablesPanel.php:78
+msgid "Could not retrieve debug info - {0}. Error: {1} in {2}, line {3}"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/VariablesPanel.php:173
+msgid "Unserializable object - {0}. Error: {1} in {2}, line {3}"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Panel/VariablesPanel.php:176
+msgid "Unserializable Error: {1} in {2}, line {3}"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:45
+msgid "-> Testing :url"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:72
+msgid "Total Requests made: :requests"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:73
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:77
+msgid "Requests/Second: :rps req/sec"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:81
+msgid "Average request time: :average-time seconds"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:85
+msgid "Standard deviation of average request time: :std-dev"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:89
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:147
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:153
+msgid "The URL to request."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:158
+msgid "Number of iterations to perform."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:162
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/BenchmarkShell.php:168
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Shell/WhitespaceShell.php:98
+msgid "Absolute path or relative to {0}."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/cache_panel.ctp:21
+msgid "There were no cache operations this request."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/cache_panel.ctp:25
+msgid "{0} Metrics"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/cache_panel.ctp:26
+msgid "Clear {0} cache"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/cache_panel.ctp:31
+msgid "Metric"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/cache_panel.ctp:32
+msgid "Total"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/cache_panel.ctp:72
+msgid "cache cleared."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/cache_panel.ctp:74
+msgid "cache could not be cleared."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:28
+msgid "Application Constants"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:34;59;135
+msgid "Constant"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:35;60;110;136
+msgid "Value"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:49
+msgid "No application environment available."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:53
+msgid "CakePHP Constants"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:74
+msgid "CakePHP environment unavailable."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:78
+msgid "INI Environment"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:99
+msgid "ini environment unavailable."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:103
+msgid "PHP Environment"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:109
+msgid "Environment Variable"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:124
+msgid "PHP environment unavailable."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:129
+msgid "Hidef Environment"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/environment_panel.ctp:150
+msgid "No Hidef environment available."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/history_panel.ctp:23
+msgid "No previous requests logged."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/history_panel.ctp:25
+msgid "previous requests available"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/history_panel.ctp:29;53
+msgid "Back to current request"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/include_panel.ctp:30
+msgid "Include Paths"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/include_panel.ctp:33
+msgid "Included Files"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/log_panel.ctp:21
+msgid "There were no log entries made this request"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/log_panel.ctp:24
+msgid "{0} Messages"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/log_panel.ctp:28
+msgid "Time"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/log_panel.ctp:29
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:32
+msgid "Message"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/mail_panel.ctp:2
+msgid "Why not test your emails interactively instead? Go to the {0}"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/mail_panel.ctp:4
+msgid "Email previews page"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/mail_panel.ctp:8
+msgid "No emails were sent during this request"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/mail_panel.ctp:17
+msgid "Subject"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:22
+msgid "{0} not found"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:26
+msgid "Check for Updates"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:27
+msgid "Direct dependencies only"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:32
+msgid "Requirements ({0})"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:37;63
+msgid "Version"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:58
+msgid "Dev Requirements ({0})"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/packages_panel.ctp:99
+msgid "Loading"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:30
+msgid "Warning"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:31
+msgid "Headers already sent at file {0} and line {1}."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:34
+msgid "Routing Params"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:37
+msgid "Post data"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:40
+msgid "No post data."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:49
+msgid "No querystring data."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:59
+msgid "No Cookie data."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/request_panel.ctp:63
+msgid "Matched Route"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/routes_panel.ctp:13
+msgid "Route name"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/routes_panel.ctp:14
+msgid "URI template"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/routes_panel.ctp:15
+msgid "Defaults"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/sql_log_panel.ctp:35
+msgid "Generated Models"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/sql_log_panel.ctp:36
+msgid "The following Table objects used {0} instead of a concrete class:"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/sql_log_panel.ctp:58
+msgid "Total Time: {0} ms &mdash; Total Queries: {1} &mdash; Total Rows: {2}"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/sql_log_panel.ctp:71
+msgid "Query"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/sql_log_panel.ctp:72
+msgid "Rows"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/sql_log_panel.ctp:73
+msgid "Took (ms)"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/sql_log_panel.ctp:91
+msgid "No active database connections"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:23
+msgid "Memory"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:25
+msgid "Peak Memory Use:"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:33
+msgid "Memory Use"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:48
+msgid "Timers"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:50
+msgid "Total Request Time:"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:57
+msgid "Event"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:58
+msgid "Time in ms"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/timer_panel.ctp:59
+msgid "Timeline"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/variables_panel.ctp:28
+msgid "Sort variables by name"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Element/variables_panel.ctp:34
+msgid "Validation errors"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/Layout/mailer.ctp:6
+msgid "Mailer Previews"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/email.ctp:24
+msgid "You are trying to preview an email that does not have any content."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:29
+msgid "How to use this feature?"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:30
+msgid "Testing emails can be very time consuming"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:31
+msgid "Specially when you need to click a bunch of times on an interface to trigger them."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:32
+msgid "Wouldn't it be better to just change the templates and refresh the browser to see the result?"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:33
+msgid "Just the way you work on the web interface!"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:35
+msgid "Example"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:36
+msgid "{0} integrates with CakePHP’s {1} class. Here's an example of such a mailer:"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:50
+msgid "Returning the chain is a good idea"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:53
+msgid "By default template with same name as method name is used."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:61
+msgid "Now you create a {0} class where you can pass some dummy values."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:87
+msgid "Note that the function MUST return the UserMailer object at the end."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:88
+msgid "Since {0} have a fluent interface, you just need to return the result of the chain of calls."
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/Template/MailPreview/index.ctp:89
+msgid "That's it, now refresh this page!"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/View/Helper/SimpleGraphHelper.php:76
+msgid "Starting {0}ms into the request, taking {1}ms"
+msgstr ""
+
+#: C:/xampp/htdocs/sekai/vendor/cakephp/debug_kit/src/View/Helper/TidyHelper.php:110
+msgid "No markup errors found"
+msgstr ""
+

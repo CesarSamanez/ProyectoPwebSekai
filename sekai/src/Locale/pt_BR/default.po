@@ -1,0 +1,637 @@
+## Template home.ctp
+
+msgid "Dashboard"
+msgstr "Painel de controle"
+
+
+msgid "Control de Ventas"
+msgstr "Controle de Vendas"
+
+## Template index.ctp
+msgid "Home"
+msgstr "Casa"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "List of"
+msgstr "Lista de"
+
+msgid "Fill in to start search"
+msgstr "Digite para pesquisar"
+
+msgid "Filter"
+msgstr "Buscar"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Confirm to delete this entry?"
+msgstr "Confirme para excluir este registro"
+
+
+## Template add.ctp
+
+msgid "Articulos"
+msgstr "Artigos"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "Idarticulo"
+msgstr "idarticle"
+
+msgid "Idcategoria"
+msgstr "Idcategoria"
+
+msgid "Codigo"
+msgstr "Code"
+
+msgid "Nombre"
+msgstr "Nome"
+
+msgid "Descripcion"
+msgstr "Descrição"
+
+msgid "Stock"
+msgstr "Estoque"
+
+msgid "Condicion"
+msgstr "Condição"
+
+msgid "PrecioVenta"
+msgstr "Venda de Preços"
+
+msgid "PrecioReferencialIGV"
+msgstr "Preço de Referência IGV"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Usuarios"
+msgstr "Usuários"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "IdUsuario"
+msgstr "UserId"
+
+msgid "Nombres"
+msgstr "Nomes"
+
+msgid "Apellidos"
+msgstr "Apelido"
+
+msgid "Dni"
+msgstr "Dni"
+
+msgid "Direccion"
+msgstr "Endereço"
+
+msgid "Telefono"
+msgstr "Telefone"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Cargo"
+msgstr "Carga"
+
+msgid "Clave"
+msgstr "Key"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "View"
+msgstr "Visão"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+
+
+msgid "IdCategoria"
+msgstr "IdCategory"
+
+msgid "Nombre"
+msgstr "Nome"
+
+msgid "Descripcion"
+msgstr "Descrição"
+
+msgid "Created"
+msgstr Criado"
+
+msgid "Compra"
+msgstr "Compra"
+
+msgid "Idcompra"
+msgstr "Id Buy"
+
+msgid "Id Detalle Compra"
+msgstr "Comprar ID do detalhe"
+
+msgid "Date"
+msgstr "Data"
+
+
+msgid "Ventas"
+msgstr "Vendas"
+
+msgid "Idventa"
+msgstr "IdVenda"
+
+msgid "Idusuario"
+msgstr "Id do usuario"
+
+msgid "Id Detalle Venta"
+msgstr "Venda de detalhes de id"
+
+msgid "Num Comprobante"
+msgstr "Num comprovante"
+
+
+msgid "Detalle Compra"
+msgstr Detalhe de compra"
+
+
+msgid "ID"
+msgstr "ID"
+
+
+msgid "IDarticulo"
+msgstr "IDarticle"
+
+
+msgid "IDcompra"
+msgstr "IDcompra"
+
+
+msgid "Cantidad"
+msgstr "Quantidade"
+
+
+msgid "PrecioTotal"
+msgstr "Preço total"
+
+
+msgid "Fecha"
+msgstr "Data"
+
+
+msgid "Detalle Ventas"
+msgstr "Detalhe de vendas"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IDarticulo"
+msgstr "IDarticle"
+
+msgid "IDventas"
+msgstr "IDsales"
+
+msgid "Cantidad"
+msgstr "Quantidade"
+
+msgid "PrecioTotal"
+msgstr "Preço total"
+
+msgid "Fecha"
+msgstr "Data"
+
+
+msgid "Dashboard"
+msgstr "Painel de controle"
+
+
+msgid "Control de Ventas"
+msgstr "Controle de Vendas"
+
+
+msgid "Home"
+msgstr "Casa"
+
+
+msgid "Total de ventas del mes"
+msgstr "Total de vendas do mês"
+
+
+msgid "Shortcuts de algunas funciones"
+msgstr "Atalhos de algumas funções"
+
+
+msgid "Register"
+msgstr "Registo"
+
+
+msgid "Login"
+msgstr "Entrar"
+
+
+msgid "Administrar Categorias"
+msgstr "Gerenciar categorias"
+
+
+msgid "Administrar Articulos en stock"
+msgstr "gerenciar artigos em estoque"
+
+msgid "Administrar Articulo Entrante"
+msgstr "Gerenciar artigo recebido"
+
+msgid "Administrar Articulo Entrante-detalles"
+msgstr "Gerenciar detalhes do artigo recebido"
+
+msgid "AdministrarVentas"
+msgstr "Gerenciar Vendas"
+
+msgid "AdministrarVentas-detalles"
+msgstr "Gerenciar detalhes de vendas"
+
+msgid "Carrito de compras"
+msgstr "Carrinho de compras"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Form"
+msgstr "Formulário"
+
+msgid "Save"
+msgstr "Salvar"
+
+
+## Template edit.ctp
+
+msgid "Edit"
+msgstr "Editar"
+
+
+## Template view.ctp
+
+msgid "Information"
+msgstr "Informação"
+
+
+## Controller
+
+msgid "The {0} has been saved."
+msgstr "{0} foi salvo."
+
+msgid "The {0} could not be saved. Please, try again."
+msgstr "{0} não foi salvo. Por favor, tente novamente."
+
+msgid "The {0} has been deleted."
+msgstr "{0} foi excluído."
+
+msgid "The {0} could not be deleted. Please, try again."
+msgstr "{0} não foi excluído. Por favor, tente novamente."
+
+
+## Login
+
+msgid "Sign in to start your session"
+msgstr "Faça login para começar a sua sessão"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "Sign in using Facebook"
+msgstr "Faça login usando Facebook"
+
+msgid "Sign in using Google+"
+msgstr "Faça login usando Google+"
+
+msgid "I forgot my password"
+msgstr "Eu esqueci minha senha"
+
+msgid "Register a new membership"
+msgstr "Registrar como novo membro"
+
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+msgid "Sign In"
+msgstr "Logar"
+
+msgid "Username or password is incorrect"
+msgstr "Usuário ou senha está incorreto"
+
+
+## Elements
+
+msgid "Alert"
+msgstr "Alerta"
+
+
+## Helpers
+
+msgid "Click here to change the file."
+msgstr "Clique aqui para mudar o arquivo."
+
+
+
+msgid "Articulos"
+msgstr "Artigos"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "Idarticulo"
+msgstr "idarticle"
+
+msgid "Idcategoria"
+msgstr "Idcategoria"
+
+msgid "Codigo"
+msgstr "Code"
+
+msgid "Nombre"
+msgstr "Nome"
+
+msgid "Descripcion"
+msgstr "Descrição"
+
+msgid "Stock"
+msgstr "Estoque"
+
+msgid "Condicion"
+msgstr "Condição"
+
+msgid "PrecioVenta"
+msgstr "Venda de Preços"
+
+msgid "PrecioReferencialIGV"
+msgstr "Preço de Referência IGV"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Usuarios"
+msgstr "Usuários"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "IdUsuario"
+msgstr "UserId"
+
+msgid "Nombres"
+msgstr "Nomes"
+
+msgid "Apellidos"
+msgstr "Apelido"
+
+msgid "Dni"
+msgstr "Dni"
+
+msgid "Direccion"
+msgstr "Endereço"
+
+msgid "Telefono"
+msgstr "Telefone"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Cargo"
+msgstr "Carga"
+
+msgid "Clave"
+msgstr "Key"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "View"
+msgstr "Visão"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+
+
+msgid "IdCategoria"
+msgstr "IdCategory"
+
+msgid "Nombre"
+msgstr "Nome"
+
+msgid "Descripcion"
+msgstr "Descrição"
+
+msgid "Created"
+msgstr Criado"
+
+msgid "Compra"
+msgstr "Compra"
+
+msgid "Idcompra"
+msgstr "Id Buy"
+
+msgid "Id Detalle Compra"
+msgstr "Comprar ID do detalhe"
+
+msgid "Date"
+msgstr "Data"
+
+
+msgid "Ventas"
+msgstr "Vendas"
+
+msgid "Idventa"
+msgstr "IdVenda"
+
+msgid "Idusuario"
+msgstr "Id do usuario"
+
+msgid "Id Detalle Venta"
+msgstr "Venda de detalhes de id"
+
+msgid "Num Comprobante"
+msgstr "Num comprovante"
+
+
+msgid "Detalle Compra"
+msgstr Detalhe de compra"
+
+
+msgid "ID"
+msgstr "ID"
+
+
+msgid "IDarticulo"
+msgstr "IDarticle"
+
+
+msgid "IDcompra"
+msgstr "IDcompra"
+
+
+msgid "Cantidad"
+msgstr "Quantidade"
+
+
+msgid "PrecioTotal"
+msgstr "Preço total"
+
+
+msgid "Fecha"
+msgstr "Data"
+
+
+msgid "Detalle Ventas"
+msgstr "Detalhe de vendas"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IDarticulo"
+msgstr "IDarticle"
+
+msgid "IDventas"
+msgstr "IDsales"
+
+msgid "Cantidad"
+msgstr "Quantidade"
+
+msgid "PrecioTotal"
+msgstr "Preço total"
+
+msgid "Fecha"
+msgstr "Data"
+
+
+msgid "Dashboard"
+msgstr "Painel de controle"
+
+
+msgid "Control de Ventas"
+msgstr "Controle de Vendas"
+
+
+msgid "Home"
+msgstr "Casa"
+
+
+msgid "Total de ventas del mes"
+msgstr "Total de vendas do mês"
+
+
+msgid "Shortcuts de algunas funciones"
+msgstr "Atalhos de algumas funções"
+
+
+msgid "Register"
+msgstr "Registo"
+
+
+msgid "Login"
+msgstr "Entrar"
+
+
+msgid "Administrar Categorias"
+msgstr "Gerenciar categorias"
+
+
+msgid "Administrar Articulos en stock"
+msgstr "gerenciar artigos em estoque"
+
+msgid "Administrar Articulo Entrante"
+msgstr "Gerenciar artigo recebido"
+
+msgid "Administrar Articulo Entrante-detalles"
+msgstr "Gerenciar detalhes do artigo recebido"
+
+msgid "AdministrarVentas"
+msgstr "Gerenciar Vendas"
+
+msgid "AdministrarVentas-detalles"
+msgstr "Gerenciar detalhes de vendas"
+
+msgid "Carrito de compras"
+msgstr "Carrinho de compras"
+
+
+msgid "online"
+msgstr "conectados"
+
+msgid "Sales control"
+msgstr "Controle de vendas"
+
+msgid "Registry"
+msgstr "Registro"
+
+msgid "Articles Table"
+msgstr "Tabela de artigos"
+
+msgid "Users Table"
+msgstr "Tabela de usuarios"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "New Articles"
+msgstr "Novo artigo"
+
+msgid "Sales Tables"
+msgstr "Tabelas de vendas"
+
+msgid "Incoming Articles"
+msgstr "Artigos recebidos"
+
+msgid "Sales Details"
+msgstr "Detalhes de vendas"
+
+msgid "Calendar"
+msgstr "Calendario"
+
+msgid "Examples"
+msgstr "Exemplos"

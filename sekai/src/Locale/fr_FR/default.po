@@ -1,0 +1,391 @@
+## Template index.ctp
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Tables"
+msgstr "Tableau"
+
+msgid "List of"
+msgstr "Liste de"
+
+msgid "Fill in to start search"
+msgstr "Reemplissez pour lancer la"
+
+msgid "Filter"
+msgstr "Recherche"
+
+msgid "Actions"
+msgstr "Filtre"
+
+msgid "Edit"
+msgstr "Actes"
+
+msgid "Delete"
+msgstr "Modifier"
+
+msgid "Confirm to delete this entry?"
+msgstr "Confirmer pour supprimer cette entrée?"
+
+
+## Template add.ctp
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Form"
+msgstr "Forme"
+
+msgid "Save"
+msgstr "sauvegarder"
+
+
+## Template edit.ctp
+
+msgid "Edit"
+msgstr "Modifier"
+
+
+## Template view.ctp
+
+msgid "Information"
+msgstr "Information"
+
+
+## Controller
+
+msgid "The {0} has been saved."
+msgstr "Le {0} a été enregistré."
+
+msgid "The {0} could not be saved. Please, try again."
+msgstr "Le {0} n'a pas pu être enregistré. "
+
+msgid "The {0} has been deleted."
+msgstr "Le {0} a été supprimé."
+
+msgid "The {0} could not be deleted. Please, try again."
+msgstr "Le {0} n'a pas pu être supprimé. Veuillez réessayer."
+
+
+## Login
+
+msgid "Sign in to start your session"
+msgstr "Connectez-vous pour commencer votre session"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "Sign in using Facebook"
+msgstr "Connectez-vous en utilisant Facebook"
+
+msgid "Sign in using Google+"
+msgstr "Connectez-vous avec Google+"
+
+msgid "I forgot my password"
+msgstr "j'ai oublié mon mot de passe"
+
+msgid "Register a new membership"
+msgstr "Enregistrez une nouvelle adhésion"
+
+msgid "Register a new membership"
+msgstr "Enregistrez une nouvelle adhésion"
+
+msgid "Sign In"
+msgstr "Se connecter"
+
+msgid "Username or password is incorrect"
+msgstr "L'identifiant ou le mot de passe est incorrect"
+
+
+## Elements
+
+msgid "Alert"
+msgstr "Alerte"
+
+
+## Helpers
+
+msgid "Click here to change the file."
+msgstr "Cliquez ici pour changer le fichier."
+
+msgid "Articulos"
+msgstr "Des articles"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Idarticulo"
+msgstr "idarticulo"
+
+msgid "Idcategoria"
+msgstr "Idcategoria"
+
+msgid "Codigo"
+msgstr "Code"
+
+msgid "Nombre"
+msgstr "Nom"
+
+msgid "Descripcion"
+msgstr "Description"
+
+msgid "Stock"
+msgstr "Stock"
+
+msgid "Condicion"
+msgstr "Condition"
+
+msgid "PrecioVenta"
+msgstr "Prix de vente"
+
+msgid "PrecioReferencialIGV"
+msgstr "Prix de reference IGV"
+
+msgid "Actions"
+msgstr "Actes"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Usuarios"
+msgstr "Usuarios"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "IdUsuario"
+msgstr "IdUsuario"
+
+msgid "Nombres"
+msgstr "Noms"
+
+msgid "Apellidos"
+msgstr "Nom de famile"
+
+msgid "Dni"
+msgstr "Dni"
+
+msgid "Direccion"
+msgstr "Adresse"
+
+msgid "Telefono"
+msgstr "Telephone"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Cargo"
+msgstr "Fret"
+
+msgid "Clave"
+msgstr "Mot de passe"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Actions"
+msgstr "Actes"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Delete"
+msgstr "Effacer"
+
+-----------------------------------
+
+msgid "IdCategoria"
+msgstr "IdCategorie"
+
+msgid "Nombre"
+msgstr "Nom"
+
+msgid "Descripcion"
+msgstr "Description"
+
+msgid "Created"
+msgstr Cree"
+
+msgid "Compra"
+msgstr "Achat"
+
+msgid "Idcompra"
+msgstr "Id compra"
+
+msgid "Id Detalle Compra"
+msgstr "Acheter un identifiant de détail"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Ventas"
+msgstr "Les ventes"
+
+msgid "Idventa"
+msgstr "IdVenta"
+
+msgid "Idusuario"
+msgstr "Id utilisateur"
+
+msgid "Id Detalle Venta"
+msgstr "Vente au detail d'identite"
+
+msgid "Num Comprobante"
+msgstr "Numero de preuve"
+
+msgid "Detalle Compra"
+msgstr "Détail de l'achat""
+
+
+msgid "ID"
+msgstr "ID"
+
+
+msgid "IDarticulo"
+msgstr "IDarticle"
+
+
+msgid "IDcompra"
+msgstr "IDcompra"
+
+
+msgid "Cantidad"
+msgstr "Montant"
+
+
+msgid "PrecioTotal"
+msgstr "Prix total"
+
+
+msgid "Fecha"
+msgstr "Date"
+
+msgid "Detalle Ventas"
+msgstr "Detail des ventes"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IDarticulo"
+msgstr "IDarticle"
+
+msgid "IDventas"
+msgstr "IDsales"
+
+msgid "Cantidad"
+msgstr "Montant"
+
+msgid "PrecioTotal"
+msgstr "Prix total"
+
+msgid "Fecha"
+msgstr "Data"
+
+-------------
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+
+msgid "Sales Control"
+msgstr "Contrôle des ventes"
+
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Registry"
+msgstr "enregistré"
+
+msgid "Total sales of the month"
+msgstr "Total des ventes du mois"
+
+
+msgid "Shortcuts"
+msgstr "Raccourcis"
+
+
+msgid "Register"
+msgstr "fonctions"
+
+
+msgid "Login"
+msgstr "Connexion"
+
+
+msgid "Administrar Categorias"
+msgstr "Gérer les catégories"
+
+
+msgid "Administrar Articulos en stock"
+msgstr "Gérer les articles en stock"
+
+msgid "Administrar Articulo Entrante"
+msgstr "Gérer les articles entrants"
+
+msgid "Administrar Articulo Entrante-detalles"
+msgstr "Gérer l'article Entrate-details"
+
+msgid "AdministrarVentas"
+msgstr "Gérer les ventes"
+
+msgid "AdministrarVentas-detalles"
+msgstr "Gérer les détails de vente"
+
+msgid "Shopping Cart"
+msgstr "Chariot"
+
+
+msgid "online"
+msgstr "en ligne"
+
+msgid "Sales control"
+msgstr "Contrôle des ventes"
+
+msgid "Registry"
+msgstr "Enregistrement"
+
+msgid "Articles Table"
+msgstr "tableau des articles"
+
+msgid "Users Table"
+msgstr "tableau des utilisateurs"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "New Articles"
+msgstr "Nouveaux articles"
+
+msgid "Sales Tables"
+msgstr "Tables de vente"
+
+
+msgid "Incoming Articles"
+msgstr "Articles entrants"
+
+
+msgid "Sales Details"
+msgstr "Détails des ventes"
+
+
+msgid "Calendar"
+msgstr "Calendrier"
+
+
+msgid "Examples"
+msgstr "Exemples"

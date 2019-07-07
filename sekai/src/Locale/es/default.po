@@ -1,0 +1,1034 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid "Remember me"
+msgstr "lembre de mim"
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-06-07 03:08+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ArticulosController.php:55;81
+#: Controller/CategoriaController.php:55;80
+#: Controller/CompraController.php:55;80
+#: Controller/DetalleCompraController.php:55;80
+#: Controller/DetalleIngresoarticulosController.php:55;80
+#: Controller/DetalleVentaController.php:55;80
+#: Controller/DetalleVentasController.php:55;80
+#: Controller/IngresoarticulosController.php:55;80
+#: Controller/UsuarioController.php:55;80
+#: Controller/UsuariosController.php:55;80
+#: Controller/VentaController.php:55;80
+#: Controller/VentasController.php:55;80
+msgid "The {0} has been saved."
+msgstr "El {0} se ha guardado."
+
+#: Controller/ArticulosController.php:59;85
+#: Controller/CategoriaController.php:59;84
+#: Controller/CompraController.php:59;84
+#: Controller/DetalleCompraController.php:59;84
+#: Controller/DetalleIngresoarticulosController.php:59;84
+#: Controller/DetalleVentaController.php:59;84
+#: Controller/DetalleVentasController.php:59;84
+#: Controller/IngresoarticulosController.php:59;84
+#: Controller/UsuarioController.php:59;84
+#: Controller/UsuariosController.php:59;84
+#: Controller/VentaController.php:59;84
+#: Controller/VentasController.php:59;84
+msgid "The {0} could not be saved. Please, try again."
+msgstr "No se pudo guardar {0}. Inténtalo de nuevo."
+
+#: Controller/ArticulosController.php:103
+#: Controller/CategoriaController.php:102
+#: Controller/CompraController.php:102
+#: Controller/DetalleCompraController.php:102
+#: Controller/DetalleIngresoarticulosController.php:102
+#: Controller/DetalleVentaController.php:102
+#: Controller/DetalleVentasController.php:102
+#: Controller/IngresoarticulosController.php:102
+#: Controller/UsuarioController.php:102
+#: Controller/UsuariosController.php:102
+#: Controller/VentaController.php:102
+#: Controller/VentasController.php:102
+msgid "The {0} has been deleted."
+msgstr "Se ha eliminado {0}."
+
+#: Controller/ArticulosController.php:105
+#: Controller/CategoriaController.php:104
+#: Controller/CompraController.php:104
+#: Controller/DetalleCompraController.php:104
+#: Controller/DetalleIngresoarticulosController.php:104
+#: Controller/DetalleVentaController.php:104
+#: Controller/DetalleVentasController.php:104
+#: Controller/IngresoarticulosController.php:104
+#: Controller/UsuarioController.php:104
+#: Controller/UsuariosController.php:104
+#: Controller/VentaController.php:104
+#: Controller/VentasController.php:104
+msgid "The {0} could not be deleted. Please, try again."
+msgstr "No se pudo eliminar {0}. Inténtalo de nuevo."
+
+#: Template/Articulo/add.ctp:11
+#: Template/Articulos/add.ctp:11
+#: Template/Categoria/add.ctp:11
+#: Template/Compra/add.ctp:11
+#: Template/DetalleCompra/add.ctp:11
+#: Template/DetalleIngresoarticulos/add.ctp:11
+#: Template/DetalleVenta/add.ctp:11
+#: Template/DetalleVentas/add.ctp:11
+#: Template/Ingresoarticulos/add.ctp:11
+#: Template/Usuario/add.ctp:11
+#: Template/Usuarios/add.ctp:11
+#: Template/Venta/add.ctp:11
+#: Template/Ventas/add.ctp:11
+msgid "Add"
+msgstr "Agregar"
+
+#: Template/Articulo/add.ctp:14
+#: Template/Articulo/edit.ctp:14
+#: Template/Articulo/view.ctp:7
+#: Template/Articulos/add.ctp:14
+#: Template/Articulos/edit.ctp:14
+#: Template/Articulos/view.ctp:7
+#: Template/Categoria/add.ctp:14
+#: Template/Categoria/edit.ctp:14
+#: Template/Categoria/view.ctp:7
+#: Template/Compra/add.ctp:14
+#: Template/Compra/edit.ctp:14
+#: Template/Compra/view.ctp:7
+#: Template/DetalleCompra/add.ctp:14
+#: Template/DetalleCompra/edit.ctp:14
+#: Template/DetalleCompra/view.ctp:7
+#: Template/DetalleIngresoarticulos/add.ctp:14
+#: Template/DetalleIngresoarticulos/edit.ctp:14
+#: Template/DetalleIngresoarticulos/view.ctp:7
+#: Template/DetalleVenta/add.ctp:14
+#: Template/DetalleVenta/edit.ctp:14
+#: Template/DetalleVenta/view.ctp:7
+#: Template/DetalleVentas/add.ctp:14
+#: Template/DetalleVentas/edit.ctp:14
+#: Template/DetalleVentas/view.ctp:7
+#: Template/Ingresoarticulos/add.ctp:14
+#: Template/Ingresoarticulos/edit.ctp:14
+#: Template/Ingresoarticulos/view.ctp:7
+#: Template/Usuario/add.ctp:14
+#: Template/Usuario/edit.ctp:14
+#: Template/Usuario/view.ctp:7
+#: Template/Usuarios/add.ctp:14
+#: Template/Usuarios/edit.ctp:14
+#: Template/Usuarios/view.ctp:7
+#: Template/Venta/add.ctp:14
+#: Template/Venta/edit.ctp:14
+#: Template/Venta/view.ctp:7
+#: Template/Ventas/add.ctp:14
+#: Template/Ventas/edit.ctp:14
+#: Template/Ventas/view.ctp:7
+#: View/Helper/HtmlHelper.php:819
+msgid "Home"
+msgstr "Casa"
+
+#: Template/Articulo/add.ctp:25
+#: Template/Articulo/edit.ctp:25
+#: Template/Articulos/add.ctp:25
+#: Template/Articulos/edit.ctp:25
+#: Template/Categoria/add.ctp:25
+#: Template/Categoria/edit.ctp:25
+#: Template/Compra/add.ctp:25
+#: Template/Compra/edit.ctp:25
+#: Template/DetalleCompra/add.ctp:25
+#: Template/DetalleCompra/edit.ctp:25
+#: Template/DetalleIngresoarticulos/add.ctp:25
+#: Template/DetalleIngresoarticulos/edit.ctp:25
+#: Template/DetalleVenta/add.ctp:25
+#: Template/DetalleVenta/edit.ctp:25
+#: Template/DetalleVentas/add.ctp:25
+#: Template/DetalleVentas/edit.ctp:25
+#: Template/Ingresoarticulos/add.ctp:25
+#: Template/Ingresoarticulos/edit.ctp:25
+#: Template/Usuario/add.ctp:25
+#: Template/Usuario/edit.ctp:25
+#: Template/Usuarios/add.ctp:25
+#: Template/Usuarios/edit.ctp:25
+#: Template/Venta/add.ctp:25
+#: Template/Venta/edit.ctp:25
+#: Template/Ventas/add.ctp:25
+#: Template/Ventas/edit.ctp:25
+msgid "Form"
+msgstr "Formulario"
+
+#: Template/Articulo/add.ctp:44
+#: Template/Articulo/edit.ctp:44
+#: Template/Articulos/add.ctp:53
+#: Template/Articulos/edit.ctp:44
+#: Template/Categoria/add.ctp:38
+#: Template/Categoria/edit.ctp:38
+#: Template/Compra/add.ctp:38
+#: Template/Compra/edit.ctp:38
+#: Template/DetalleCompra/add.ctp:40
+#: Template/DetalleCompra/edit.ctp:40
+#: Template/DetalleIngresoarticulos/add.ctp:40
+#: Template/DetalleIngresoarticulos/edit.ctp:40
+#: Template/DetalleVenta/add.ctp:40
+#: Template/DetalleVenta/edit.ctp:40
+#: Template/DetalleVentas/add.ctp:40
+#: Template/DetalleVentas/edit.ctp:40
+#: Template/Ingresoarticulos/add.ctp:41
+#: Template/Ingresoarticulos/edit.ctp:42
+#: Template/Usuario/add.ctp:44
+#: Template/Usuario/edit.ctp:44
+#: Template/Usuarios/add.ctp:45
+#: Template/Usuarios/edit.ctp:45
+#: Template/Venta/add.ctp:42
+#: Template/Venta/edit.ctp:42
+#: Template/Ventas/add.ctp:40
+#: Template/Ventas/edit.ctp:40
+#: View/Helper/FormHelper.php:2028
+msgid "Submit"
+msgstr "Enviar"
+
+#: Template/Articulo/edit.ctp:11
+#: Template/Articulo/index.ctp:62
+#: Template/Articulos/edit.ctp:11
+#: Template/Articulos/index.ctp:61
+#: Template/Categoria/edit.ctp:11
+#: Template/Categoria/index.ctp:51
+#: Template/Compra/edit.ctp:11
+#: Template/Compra/index.ctp:49
+#: Template/DetalleCompra/edit.ctp:11
+#: Template/DetalleCompra/index.ctp:53
+#: Template/DetalleIngresoarticulos/edit.ctp:11
+#: Template/DetalleIngresoarticulos/index.ctp:53
+#: Template/DetalleVenta/edit.ctp:11
+#: Template/DetalleVenta/index.ctp:53
+#: Template/DetalleVentas/edit.ctp:11
+#: Template/DetalleVentas/index.ctp:53
+#: Template/Ingresoarticulos/edit.ctp:11
+#: Template/Ingresoarticulos/index.ctp:57
+#: Template/Usuario/edit.ctp:11
+#: Template/Usuario/index.ctp:61
+#: Template/Usuarios/edit.ctp:11
+#: Template/Usuarios/index.ctp:63
+#: Template/Venta/edit.ctp:11
+#: Template/Venta/index.ctp:57
+#: Template/Ventas/edit.ctp:11
+#: Template/Ventas/index.ctp:53
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Articulo/index.ctp:6
+#: Template/Articulos/index.ctp:6
+#: Template/Categoria/index.ctp:6
+#: Template/Compra/index.ctp:6
+#: Template/DetalleCompra/index.ctp:6
+#: Template/DetalleIngresoarticulos/index.ctp:6
+#: Template/DetalleVenta/index.ctp:6
+#: Template/DetalleVentas/index.ctp:6
+#: Template/Ingresoarticulos/index.ctp:6
+#: Template/Usuario/index.ctp:6
+#: Template/Usuarios/index.ctp:6
+#: Template/Venta/index.ctp:6
+#: Template/Ventas/index.ctp:6
+msgid "New"
+msgstr "Nuevo"
+
+#: Template/Articulo/index.ctp:16
+#: Template/Articulos/index.ctp:16
+#: Template/Categoria/index.ctp:16
+#: Template/Compra/index.ctp:16
+#: Template/DetalleCompra/index.ctp:16
+#: Template/DetalleIngresoarticulos/index.ctp:16
+#: Template/DetalleVenta/index.ctp:16
+#: Template/DetalleVentas/index.ctp:16
+#: Template/Ingresoarticulos/index.ctp:16
+#: Template/Usuario/index.ctp:16
+#: Template/Usuarios/index.ctp:16
+#: Template/Venta/index.ctp:16
+#: Template/Ventas/index.ctp:16
+msgid "List"
+msgstr "Listado"
+
+#: Template/Articulo/index.ctp:21
+#: Template/Articulos/index.ctp:21
+#: Template/Categoria/index.ctp:21
+#: Template/Compra/index.ctp:21
+#: Template/DetalleCompra/index.ctp:21
+#: Template/DetalleIngresoarticulos/index.ctp:21
+#: Template/DetalleVenta/index.ctp:21
+#: Template/DetalleVentas/index.ctp:21
+#: Template/Ingresoarticulos/index.ctp:21
+#: Template/Usuario/index.ctp:21
+#: Template/Usuarios/index.ctp:21
+#: Template/Venta/index.ctp:21
+#: Template/Ventas/index.ctp:21
+msgid "Search"
+msgstr "Buscar"
+
+#: Template/Articulo/index.ctp:44
+#: Template/Articulos/index.ctp:44
+#: Template/Categoria/index.ctp:39
+#: Template/Compra/index.ctp:38
+#: Template/DetalleCompra/index.ctp:40
+#: Template/DetalleIngresoarticulos/index.ctp:40
+#: Template/DetalleVenta/index.ctp:40
+#: Template/DetalleVentas/index.ctp:40
+#: Template/Ingresoarticulos/index.ctp:42
+#: Template/Usuario/index.ctp:44
+#: Template/Usuarios/index.ctp:45
+#: Template/Venta/index.ctp:42
+#: Template/Ventas/index.ctp:40
+msgid "Actions"
+msgstr "Acciones"
+
+#: Template/Articulo/index.ctp:60
+msgid "AddtoCart"
+msgstr "Agregar al carrito"
+
+#: Template/Articulo/index.ctp:61
+#: Template/Articulo/view.ctp:4
+#: Template/Articulos/index.ctp:60
+#: Template/Articulos/view.ctp:4
+#: Template/Categoria/index.ctp:50
+#: Template/Categoria/view.ctp:4
+#: Template/Compra/index.ctp:48
+#: Template/Compra/view.ctp:4
+#: Template/DetalleCompra/index.ctp:52
+#: Template/DetalleCompra/view.ctp:4
+#: Template/DetalleIngresoarticulos/index.ctp:52
+#: Template/DetalleIngresoarticulos/view.ctp:4
+#: Template/DetalleVenta/index.ctp:52
+#: Template/DetalleVenta/view.ctp:4
+#: Template/DetalleVentas/index.ctp:52
+#: Template/DetalleVentas/view.ctp:4
+#: Template/Ingresoarticulos/index.ctp:56
+#: Template/Ingresoarticulos/view.ctp:4
+#: Template/Usuario/index.ctp:60
+#: Template/Usuario/view.ctp:4
+#: Template/Usuarios/index.ctp:62
+#: Template/Usuarios/view.ctp:4
+#: Template/Venta/index.ctp:56
+#: Template/Venta/view.ctp:4
+#: Template/Ventas/index.ctp:52
+#: Template/Ventas/view.ctp:4
+#: View/Helper/PaginatorHelper.php:1258
+msgid "View"
+msgstr "Ver"
+
+#: Template/Articulo/index.ctp:63
+#: Template/Articulos/index.ctp:62
+#: Template/Categoria/index.ctp:52
+#: Template/Compra/index.ctp:50
+#: Template/DetalleCompra/index.ctp:54
+#: Template/DetalleIngresoarticulos/index.ctp:54
+#: Template/DetalleVenta/index.ctp:54
+#: Template/DetalleVentas/index.ctp:54
+#: Template/Ingresoarticulos/index.ctp:58
+#: Template/Usuario/index.ctp:62
+#: Template/Usuarios/index.ctp:64
+#: Template/Venta/index.ctp:58
+#: Template/Ventas/index.ctp:54
+msgid "Delete"
+msgstr "Eliminar"
+
+#: Template/Articulo/index.ctp:63
+#: Template/Articulos/index.ctp:62
+#: Template/Categoria/index.ctp:52
+#: Template/Compra/index.ctp:50
+#: Template/DetalleCompra/index.ctp:54
+#: Template/DetalleIngresoarticulos/index.ctp:54
+#: Template/DetalleVenta/index.ctp:54
+#: Template/DetalleVentas/index.ctp:54
+#: Template/Ingresoarticulos/index.ctp:58
+#: Template/Usuario/index.ctp:62
+#: Template/Usuarios/index.ctp:64
+#: Template/Venta/index.ctp:58
+#: Template/Ventas/index.ctp:54
+msgid "Are you sure you want to delete # {0}?"
+msgstr "¿Estás seguro de que quieres eliminar # {0}?"
+
+#: Template/Articulo/view.ctp:18
+#: Template/Articulos/view.ctp:18
+#: Template/Categoria/view.ctp:18
+#: Template/Compra/view.ctp:18
+#: Template/DetalleCompra/view.ctp:18
+#: Template/DetalleIngresoarticulos/view.ctp:18
+#: Template/DetalleVenta/view.ctp:18
+#: Template/DetalleVentas/view.ctp:18
+#: Template/Ingresoarticulos/view.ctp:18
+#: Template/Usuario/view.ctp:18
+#: Template/Usuarios/view.ctp:18
+#: Template/Venta/view.ctp:18
+#: Template/Ventas/view.ctp:18
+msgid "Information"
+msgstr "Informacion"
+
+#: Template/Articulo/view.ctp:23
+#: Template/Articulos/view.ctp:23
+msgid "Codigo"
+msgstr "Codigo"
+
+#: Template/Articulo/view.ctp:25
+#: Template/Articulos/view.ctp:25
+#: Template/Categoria/view.ctp:23
+#: Template/Usuario/view.ctp:23
+msgid "Nombre"
+msgstr "Nombre"
+
+#: Template/Articulo/view.ctp:27
+#: Template/Articulos/view.ctp:27
+#: Template/Categoria/view.ctp:25
+msgid "Descripcion"
+msgstr "Descripcion"
+
+#: Template/Articulo/view.ctp:29
+#: Template/Articulos/view.ctp:39
+msgid "Condicion"
+msgstr "Condicion"
+
+#: Template/Articulo/view.ctp:31
+#: Template/Articulos/view.ctp:29
+#: Template/DetalleIngresoarticulos/view.ctp:27
+#: Template/DetalleVenta/view.ctp:27
+msgid "Idarticulo"
+msgstr "Id-Articulo"
+
+#: Template/Articulo/view.ctp:33
+#: Template/Articulos/view.ctp:31
+#: Template/Categoria/view.ctp:27
+msgid "Idcategoria"
+msgstr "Id-Categoria"
+
+#: Template/Articulo/view.ctp:35
+#: Template/Articulos/view.ctp:33
+msgid "Stock"
+msgstr "Cantidad"
+
+#: Template/Articulo/view.ctp:37
+#: Template/Articulos/view.ctp:35
+msgid "PrecioVenta"
+msgstr "Precio Venta"
+
+#: Template/Articulo/view.ctp:39
+msgid "PrecioReferencial IGV"
+msgstr "Precio Referencial IGV"
+
+#: Template/Articulos/view.ctp:37
+msgid "PrecioReferencialIGV"
+msgstr "Precio Referencial IGV"
+
+#: Template/Articulos/view.ctp:40
+#: Template/Usuario/view.ctp:40
+#: Template/Usuarios/view.ctp:42
+msgid "Yes"
+msgstr "Si"
+
+#: Template/Articulos/view.ctp:40
+#: Template/Usuario/view.ctp:40
+#: Template/Usuarios/view.ctp:42
+msgid "No"
+msgstr "No"
+
+#: Template/Categoria/view.ctp:29
+msgid "Created"
+msgstr "Creado"
+
+#: Template/Compra/view.ctp:23
+msgid "Idcompra"
+msgstr "IdCompra"
+
+#: Template/Compra/view.ctp:25
+msgid "Id Detalle Compra"
+msgstr "Id Detalle Compra"
+
+#: Template/Compra/view.ctp:27
+#: Template/Ventas/view.ctp:31
+msgid "Date"
+msgstr "Fecha"
+
+#: Template/DetalleCompra/view.ctp:23
+#: Template/DetalleVentas/view.ctp:23
+msgid "ID"
+msgstr "Id"
+
+#: Template/DetalleCompra/view.ctp:25
+#: Template/DetalleVentas/view.ctp:25
+#: Template/Ingresoarticulos/view.ctp:29
+#: Template/Venta/view.ctp:29
+msgid "IDarticulo"
+msgstr "IdArticulo"
+
+#: Template/DetalleCompra/view.ctp:27
+#: Template/DetalleIngresoarticulos/view.ctp:29
+#: Template/DetalleVenta/view.ctp:29
+#: Template/DetalleVentas/view.ctp:27
+#: Template/Ingresoarticulos/view.ctp:31
+#: Template/Venta/view.ctp:31
+msgid "Cantidad"
+msgstr "Cantidad"
+
+#: Template/DetalleCompra/view.ctp:29
+#: Template/DetalleVentas/view.ctp:29
+msgid "Preciototal"
+msgstr "PrecioTotal"
+
+#: Template/DetalleCompra/view.ctp:31
+#: Template/DetalleVentas/view.ctp:31
+msgid "Fecha"
+msgstr "Fecha"
+
+#: Template/DetalleIngresoarticulos/view.ctp:23
+msgid "Iddetalle Ingreso"
+msgstr "IdDetalle-Ingreso"
+
+#: Template/DetalleIngresoarticulos/view.ctp:25
+#: Template/Ingresoarticulos/view.ctp:25
+msgid "Idingreso"
+msgstr "IdIngreso"
+
+#: Template/DetalleIngresoarticulos/view.ctp:31
+msgid "Precio Compra"
+msgstr "Precio Compra"
+
+#: Template/DetalleVenta/view.ctp:23
+msgid "Iddetalle Venta"
+msgstr "IdDetalle-Venta"
+
+#: Template/DetalleVenta/view.ctp:25
+#: Template/Venta/view.ctp:25
+#: Template/Ventas/view.ctp:23
+msgid "Idventa"
+msgstr "IdVenta"
+
+#: Template/DetalleVenta/view.ctp:31
+msgid "Precio Venta"
+msgstr "Precio Venta"
+
+#: Template/Ingresoarticulos/view.ctp:23
+msgid "Estado"
+msgstr "Estado"
+
+#: Template/Ingresoarticulos/view.ctp:27
+#: Template/Usuario/view.ctp:37
+#: Template/Venta/view.ctp:27
+#: Template/Ventas/view.ctp:25
+msgid "Idusuario"
+msgstr "Id Usuario"
+
+#: Template/Ingresoarticulos/view.ctp:33
+msgid "Total Compra"
+msgstr "Total Compra"
+
+#: Template/Ingresoarticulos/view.ctp:35
+#: Template/Venta/view.ctp:35
+msgid "Fecha Hora"
+msgstr "Fecha-Hora"
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr "Error"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Volver"
+
+#: Template/Usuario/view.ctp:25
+msgid "Num Documento"
+msgstr "Num Documento"
+
+#: Template/Usuario/view.ctp:27
+#: Template/Usuarios/view.ctp:27
+msgid "Direccion"
+msgstr "Direccion"
+
+#: Template/Usuario/view.ctp:29
+#: Template/Usuarios/view.ctp:39
+msgid "Telefono"
+msgstr "Telefono"
+
+#: Template/Usuario/view.ctp:31
+#: Template/Usuarios/view.ctp:29
+msgid "Email"
+msgstr "Correo"
+
+#: Template/Usuario/view.ctp:33
+#: Template/Usuarios/view.ctp:31
+msgid "Cargo"
+msgstr "Cargo"
+
+#: Template/Usuario/view.ctp:35
+#: Template/Usuarios/view.ctp:33
+msgid "Clave"
+msgstr "Clave"
+
+#: Template/Usuario/view.ctp:39
+#: Template/Usuarios/view.ctp:41
+msgid "Status"
+msgstr "Estado"
+
+#: Template/Usuarios/view.ctp:23
+msgid "Nombres"
+msgstr "Nombres"
+
+#: Template/Usuarios/view.ctp:25
+msgid "Apellidos"
+msgstr "Apellidos"
+
+#: Template/Usuarios/view.ctp:35
+msgid "IdUsuario"
+msgstr "IdUsuario"
+
+#: Template/Usuarios/view.ctp:37
+msgid "Dni"
+msgstr "Dni"
+
+#: Template/Venta/view.ctp:23
+#: Template/Ventas/view.ctp:29
+msgid "Num Comprobante"
+msgstr "Num.Comprobante"
+
+#: Template/Venta/view.ctp:33
+msgid "Total Venta IGV"
+msgstr "Total Venta IGV"
+
+#: Template/Ventas/view.ctp:27
+msgid "Id Detalle Venta"
+msgstr "Id Detalle Venta"
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr "La dirección solicitada {0} no se encontró en este servidor."
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr "Ha ocurrido un error interno"
+
+#: Controller/Component/AuthComponent.php:500
+msgid "You are not authorized to access that location."
+msgstr "No estás autorizado para acceder a esa ubicación."
+
+#: Controller/Component/CsrfComponent.php:182
+#: Http/Middleware/CsrfProtectionMiddleware.php:196
+msgid "Missing CSRF token cookie"
+msgstr "Falta la cookie de token CSRF"
+
+#: Controller/Component/CsrfComponent.php:186
+#: Http/Middleware/CsrfProtectionMiddleware.php:200
+msgid "CSRF token mismatch."
+msgstr "Desajuste de token CSRF."
+
+#: Error/ExceptionRenderer.php:301
+msgid "Not Found"
+msgstr "No Encontrado"
+
+#: Error/ExceptionRenderer.php:303
+msgid "An Internal Error Has Occurred."
+msgstr "Un error interno ha ocurrido."
+
+#: Http/Response.php:2630
+msgid "The requested file contains `..` and will not be read."
+msgstr "El archivo solicitado contiene `..` y no se leerá."
+
+#: Http/Response.php:2651
+msgid "The requested file was not found"
+msgstr "El archivo solicitado no fue encontrado"
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr "{0} desde ahora"
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr "Hace {0}"
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr "{0} después"
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr "{0} antes"
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr "justo ahora"
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr "hace aproximadamente un segundo"
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr "hace alrededor de un minuto"
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr "Hace aproximadamente una hora"
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr "hace como un día"
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr "hace aproximadamente una semana"
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr "Hace más o menos un mes"
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr "Hace un año"
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:934
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2223
+#: View/Form/ArrayContext.php:226
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2245
+msgid "This field cannot be left empty"
+msgstr "Este campo no se puede dejar vacío."
+
+#: Validation/Validator.php:2395
+msgid "The provided value is invalid"
+msgstr "El valor proporcionado es inválido"
+
+#: View/Helper/FormHelper.php:1107
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: View/Helper/FormHelper.php:1109
+msgid "New {0}"
+msgstr "Nuevo {0}"
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr "Enero"
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr "Febreo"
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr "Marzo"
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr "Abril"
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr "Mayo"
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr "Junio"
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr "Julio"
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr "Agosto"
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr "Septiembre"
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr "Octubre"
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr "Noviembre"
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr "Diciembre"
+
+msgid "Online"
+msgstr "En linea"
+
+
+msgid "Dashboard"
+msgstr "Tablero"
+
+msgid "Forms"
+msgstr "Formularios"
+
+msgid "Tables"
+msgstr "Tablas"
+
+msgid "Login"
+msgstr "Iniciar Sesion"
+
+msgid "Add users"
+msgstr "Agregar usuario"
+
+msgid "Add Users"
+msgstr "Agregar usuario"
+
+msgid "Articles"
+msgstr "Articulos"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Purchase"
+msgstr "Compra"
+
+msgid "Sales"
+msgstr "Ventas"
+
+msgid "SalesDetails"
+msgstr "Detalle ventas"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Simple tables"
+msgstr "Tables simples"
+
+msgid "Data tables"
+msgstr "Tablas de datos"
+
+msgid "Control panel"
+msgstr "Panel de control"
+
+msgid "New Article"
+msgstr "Articulo Nuevo"
+
+msgid "Articles"
+msgstr "Articulos"
+
+msgid "Purchases"
+msgstr "Compras"
+
+msgid "Sales (Shopping Cart)"
+msgstr "Ventas(Carrito de compras)"
+
+msgid "User Registrations"
+msgstr "Registro de usuarios"
+
+msgid "More info"
+msgstr "Más informacion"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Code"
+msgstr "Codigo"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Referential Price"
+msgstr "Precio Referencial"
+
+msgid "Information"
+msgstr "Informacion"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Description"
+msgstr "Descripcion"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Article"
+msgstr "Articulo"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Voucher Number"
+msgstr "Numero de comprobante"
+
+msgid "Articles"
+msgstr "Articulos"
+
+msgid "Sales"
+msgstr "Ventas"
+
+msgid "Address"
+msgstr "Direccion"
+
+msgid "Phone Number"
+msgstr "Numero telefonico"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Function"
+msgstr "Funcion"
+
+msgid "Sign in to start your session"
+msgstr "Iniciar sesion para comenzar."
+
+msgid "Retype the characters from the picture"
+msgstr "Vuelve a escribir los caracteres de la imagen."
+
+msgid "Login"
+msgstr "Iniciar Sesion"
+
+msgid "I forgot my password"
+msgstr "Olvide mi contraseña"
+
+msgid "Register a new membership"
+msgstr "Registrar un nuevo miembro"
+
+msgid "Recover your password"
+msgstr "Recuperar mi contraseña"
+
+msgid "Please enter your email"
+msgstr "Ingresa tu correo"
+
+msgid "Get my password"
+msgstr "Obtener mi contraseña"
+
+msgid "Login"
+msgstr "Iniciar Sesion"
+
+msgid "Last Name"
+msgstr "Apellidos"
